@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump
+END
+timer.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/timer.lua
+END
+vector.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/vector.lua
+END
+class.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/class.lua
+END
+camera.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/camera.lua
+END
+ringbuffer.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/ringbuffer.lua
+END
+gamestate.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/gamestate.lua
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/hump/README.md
+END

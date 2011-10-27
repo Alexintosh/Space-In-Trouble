@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/loveosc
+END
+init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/loveosc/init.lua
+END
+server.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/loveosc/server.lua
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/loveosc/README
+END
+client.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dev_alexintosh/!svn/ver/7/LICK/lib/loveosc/client.lua
+END
